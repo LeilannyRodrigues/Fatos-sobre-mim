@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Fatos sobre mim</title>
+
+        <link rel="stylesheet" href="css/style.css">
+       
+    </head>
+    <body>
+
+        <header>
+            <img id="img-logo" src="img/html.png" alt="Logo do HTML"/>
+        <nav>
+            <ul>
+                <li>25 anos</li>
+                <li>Sei tocar piano</li>
+                <li>Gosto de explorar o mundo da tecnologia</li>
+                <li>Amo a cor azul piscina</li>
+            </ul>  
+        </nav>
+        </header>
+
+        <main>
+            <h1 style="color:greenyellow"> Práticas de programação</h1>
+            <p class="destaque">Bem-vindos a minha prática de programação</p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maxime fugiat dolor impedit asperiores blanditiis neque. Reprehenderit autem similique cumque voluptate minima. Eos labore obcaecati neque, qui ipsum voluptatum amet!
+             </p>
+             <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maxime fugiat dolor impedit asperiores blanditiis neque. Reprehenderit autem similique cumque voluptate minima. Eos labore obcaecati neque, qui ipsum voluptatum amet!
+             </p>
+             
+        </main>
+
+        <header>
+            I LOVE
+        </header>
+
+        <main>
+            SO MUCH
+        </main>
+
+        <footer>
+            <p>Adoro aprender inglês</p>
+        </footer>
+
+        <H1>Práticas de programação</H1>
+
+        <p class="destaque">Bem-vindos a minha prática de programação</p>
+
+        <p>
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam maxime fugiat dolor impedit asperiores blanditiis neque. Reprehenderit autem similique cumque voluptate minima. Eos labore obcaecati neque, qui ipsum voluptatum amet!
+        </p>
+
+
+        <h2>Imagem</h2>
+
+        <img src="img/html.png" alt="Logo do HTML"/>
+
+
+        <hr>
+
+
+        <h2>Link</h2>
+
+        <p>
+    Clique <a target="_blank" href="http://google.com" > aqui </a> para acessar o google
+
+</p>
+
+<h2>Listas</h2>
+<ul>
+    <li>Html</li>
+    <li>Css</li>
+    <li>Lógica de progrmação</li>
+    <li>JavaScript</li>
+</ul>
+
+<nav>
+    <li>Html</li>
+    <li>Css</li>
+    <li>Lógica de programação</li>
+    <li>JavaScript</li>
+</nav>
+
+    </body>
+</html>
